@@ -1,0 +1,4 @@
+# Imported packages, not a tested or version-pinned environment.
+matplotlib
+tensorflow
+tensorflow-datasets

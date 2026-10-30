@@ -1,0 +1,17 @@
+{
+  "project": "mnist-ocr",
+  "packaging_note": "Original source downloaded from the authenticated Kaggle account; code not rewritten. Documentation added for portfolio organization. Downloaded Kaggle notebooks generally omit executed outputs. Last run timestamps are source metadata, not authorship or publication dates.",
+  "sources": [
+    {
+      "file": "notebooks/mnist-ocr.ipynb",
+      "source_url": "https://www.kaggle.com/code/thorballer/mnist-ocr",
+      "source_title": "MNIST OCR",
+      "source_id": 73229089,
+      "last_run_time": "2024-12-19 22:48:33.980000",
+      "original_sha256": "524f4567d83254ba0d2911f97dd1965832382067ff4e20225e7525f49836c595",
+      "published_sha256": "524f4567d83254ba0d2911f97dd1965832382067ff4e20225e7525f49836c595",
+      "redactions": [],
+      "executed_outputs_present": false
+    }
+  ]
+}
